@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/sh4vyar/sh4vear-nextjs-starter.git
 ```
 
 Go to the project directory
